@@ -20,7 +20,7 @@ use Drupal\schema_metatag\Plugin\metatag\Tag\SchemaNameBase;
  *   weight = -50,
  *   type = "string",
  *   tree_parent = {
- *     "Organization",
+ *     "Intangible",
  *   },
  *   tree_depth = -1,
  *   property_type = "type",
